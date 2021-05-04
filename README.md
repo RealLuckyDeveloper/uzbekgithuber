@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucky_developer
-- 👀 I’m interested in android application developing
+- 👋 Hi, I’m @lucky-developer
+- 👀 I’m interested in android application development
 - 🌱 I’m currently learning Java and C++
 
 
